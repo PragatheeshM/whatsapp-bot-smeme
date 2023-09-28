@@ -1,0 +1,16 @@
+2023/09/28-15:14:30.848 1ea8 Creating DB D:\whatsapp bot backup\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/09/28-15:14:30.962 1ea8 Reusing MANIFEST D:\whatsapp bot backup\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/28-15:14:31.275 36cc Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/28-15:14:33.186 36cc Level-0 table #5: started
+2023/09/28-15:14:33.230 36cc Level-0 table #5: 25728 bytes OK
+2023/09/28-15:14:33.276 36cc Delete type=0 #3
+2023/09/28-15:14:33.276 36cc Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/28-15:15:13.156 34f0 Level-0 table #7: started
+2023/09/28-15:15:13.490 34f0 Level-0 table #7: 1042004 bytes OK
+2023/09/28-15:15:13.570 34f0 Delete type=0 #4
+2023/09/28-15:15:20.868 36cc Compacting 1@1 + 1@2 files
+2023/09/28-15:15:20.944 36cc Generated table #8@1: 12204 keys, 485936 bytes
+2023/09/28-15:15:20.944 36cc Compacted 1@1 + 1@2 files => 485936 bytes
+2023/09/28-15:15:20.987 36cc compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/28-15:15:20.987 36cc Delete type=2 #5
+2023/09/28-15:15:20.987 36cc Delete type=2 #7
